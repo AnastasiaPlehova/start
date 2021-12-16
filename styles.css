@@ -1,0 +1,33 @@
+body {
+	background: #abddd6;
+}
+
+span {
+	color: #d72fbd;
+}
+
+span {
+font-style: italic;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h1 {
+	background: #e88888;
+}
+
+h1 {
+	width: 225px;
+  	height: 30px;
+	border: 1px solid #e88888;
+}
+
+div.ref {
+	font-size: 24px;
+}
+
+div.ref {
+	color: #0000ff;
+}
